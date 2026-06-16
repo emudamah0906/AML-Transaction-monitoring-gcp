@@ -1,4 +1,4 @@
-# AML-Transaction-Monitoring-on-GCP now has batch + streaming + event-driven.
+# AML-Transaction-Monitoring-on-GCP BOTH batch + streaming + event-driven.
 
 An anti-money-laundering (AML) transaction-monitoring platform on Google Cloud
 covering **batch, streaming, and event-driven** ingestion. It runs FINTRAC-style
